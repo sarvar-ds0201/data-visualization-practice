@@ -2,7 +2,7 @@ import plotly.express as px
 
 from class_die import Die
 
-# Создание кубика D8.
+# Создание кубиков D8.
 die_1 = Die(8)
 die_2 = Die(8)
 
